@@ -2,7 +2,7 @@
   Hi there !  
      <div align=left>
        <br>
-        <a href="https://www.linkedin.com/in/amira-bensaid/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/amira-bensaid-0952ba1b9/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   </div>
     <div align=left>
         <br>
