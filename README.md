@@ -1,16 +1,26 @@
-### Hi there 👋
+<div>
+  Hello there !  
+     <div align=left>
+       <br>
+        <a href="https://www.linkedin.com/in/amira-bensaid/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  </div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+             I'm a business information systems Student at fsegn .<br>
+             I am passionate about learning .NET, Linux, Virtualization, Cloud Computing.<br>
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>I’m currently learning</b>: java,PHP and .NET Frameworks </li>
+            <li>😄 <b>Fun fact</b>: I love books(📚), Codeing(💻), and Photography(📷).</li>
+        </ul>
+    </div>
+</div>
+      
+   
+   
 
-<!--
-**amirabensaid/amirabensaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
