@@ -1,5 +1,5 @@
 <div>
-  Hello there !  
+  Hi there !  
      <div align=left>
        <br>
         <a href="https://www.linkedin.com/in/amira-bensaid/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
