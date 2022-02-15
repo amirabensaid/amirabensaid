@@ -16,7 +16,6 @@
       <p align="center"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /></p>
     <a href="https://www.linkedin.com/in/amira-bensaid-0952ba1b9/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <ul ">
-          <li><b>JAVA, PHP, C, HTML</b></li>
             <li>🌱 <b>I’m currently learning</b>: java,PHP and .NET Frameworks </li>
            <li>📫 <b>How to reach me </b>: bensaidamira773@gmail.com</li>
             <li>😄 <b>Fun fact</b>: I love books(📚), Codeing(💻), and Photography(📷).</li>
