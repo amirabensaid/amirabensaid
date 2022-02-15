@@ -9,6 +9,7 @@
     <div align=left>
         <br>
         <p>
+<p align="right"><img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" /></p>
             <strong>
              I am passionate about learning .NET, Linux, Virtualization, Cloud Computing.<br>
             </strong>
@@ -19,11 +20,11 @@
            <li>📫 <b>How to reach me </b>: bensaidamira773@gmail.com</li>
             <li>😄 <b>Fun fact</b>: I love books(📚), Codeing(💻), and Photography(📷).</li>
         </ul>
-      <h3 align="left">Languages and Tools:</h3>
+      <h3 align="left">Languages and Tools :</h3>
 <p align="left"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a>
-   <a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/> </a>
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
   <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
@@ -35,7 +36,8 @@
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a>  </p>
+      alt="mysql" width="40" height="40" /> </a> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  </p>
 
 <br>
     </div>
