@@ -1,19 +1,19 @@
 
   <h1 align="center">Hi 👋, I'm Amira Bensaid</h1>
-<h3 align="center">business information systems Student🌟.</h3>
+<h3 align="center">Business information systems Student🌟.</h3>
 <div>
      <div align=left>
        <br>
       
   </div>
-    <div align=left>
+    <div align=center>
         <br>
         <p>
             <strong>
              I am passionate about learning .NET, Linux, Virtualization, Cloud Computing.<br>
             </strong>
         </p>
-      <p align="left"><img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" /></p>
+      <p align="center"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /></p>
     <a href="https://www.linkedin.com/in/amira-bensaid-0952ba1b9/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <ul ">
           <li><b>JAVA, PHP, C, HTML</b></li>
