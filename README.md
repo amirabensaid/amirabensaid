@@ -4,17 +4,18 @@
 <div>
      <div align=left>
        <br>
-        <a href="https://www.linkedin.com/in/amira-bensaid-0952ba1b9/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+      
   </div>
     <div align=left>
         <br>
         <p>
-<p align="right"><img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" /></p>
             <strong>
              I am passionate about learning .NET, Linux, Virtualization, Cloud Computing.<br>
             </strong>
         </p>
-        <ul>
+      <p align="left"><img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" /></p>
+    <a href="https://www.linkedin.com/in/amira-bensaid-0952ba1b9/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <ul ">
           <li><b>JAVA, PHP, C, HTML</b></li>
             <li>🌱 <b>I’m currently learning</b>: java,PHP and .NET Frameworks </li>
            <li>📫 <b>How to reach me </b>: bensaidamira773@gmail.com</li>
