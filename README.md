@@ -18,7 +18,7 @@
         <ul ">
             <li>🌱 <b>I’m currently learning</b>: java,PHP and .NET Frameworks </li>
            <li>📫 <b>How to reach me </b>: bensaidamira773@gmail.com</li>
-            <li>😄 <b>Fun fact</b>: I love books(📚), Codeing(💻), and Photography(📷).</li>
+            <li>😄 <b>Fun fact</b>: I love books(📚), Coding(💻), and Photography(📷).</li>
         </ul>
       <h3 align="left">Languages and Tools :</h3>
 <p align="left"> <img
