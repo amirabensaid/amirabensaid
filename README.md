@@ -1,5 +1,7 @@
+
+  <h1 align="center">Hi 👋, I'm Amira Bensaid</h1>
+<h3 align="center">business information systems Student🌟.</h3>
 <div>
-  Hi there !  
      <div align=left>
        <br>
         <a href="https://www.linkedin.com/in/amira-bensaid-0952ba1b9/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -8,15 +10,34 @@
         <br>
         <p>
             <strong>
-             I'm a business information systems Student at fsegn .<br>
              I am passionate about learning .NET, Linux, Virtualization, Cloud Computing.<br>
             </strong>
         </p>
         <ul>
           <li><b>JAVA, PHP, C, HTML</b></li>
             <li>🌱 <b>I’m currently learning</b>: java,PHP and .NET Frameworks </li>
+           <li>📫 <b>How to reach me </b>: bensaidamira773@gmail.com</li>
             <li>😄 <b>Fun fact</b>: I love books(📚), Codeing(💻), and Photography(📷).</li>
         </ul>
+      <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a>
+   <a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a>  </p>
+
+<br>
     </div>
 </div>
       
