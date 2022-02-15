@@ -13,7 +13,7 @@
             </strong>
         </p>
         <ul>
-          <li><b></b>: java,PHP,C,HTML</li>
+          <li><b>JAVA, PHP, C, HTML</b></li>
             <li>🌱 <b>I’m currently learning</b>: java,PHP and .NET Frameworks </li>
             <li>😄 <b>Fun fact</b>: I love books(📚), Codeing(💻), and Photography(📷).</li>
         </ul>
