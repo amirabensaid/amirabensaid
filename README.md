@@ -15,7 +15,6 @@ I'm a passionate **Engineering Student** and dedicated **.NET Developer** curren
 
 - 🎓 **Engineering Student** with focus on Software Development
 - 💼 **Working at L-Mobile SARL** as a .NET Developer
-- 🌍 Based in Tunisia
 - 💡 Passionate about clean code and best practices
 - 🎯 Always learning and exploring new technologies
 
