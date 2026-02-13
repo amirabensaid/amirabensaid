@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm **Amira Ben Said**
+# Hey there! 👋 I'm **Amira**
 
 <div align="center">
 
