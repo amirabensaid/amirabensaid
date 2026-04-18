@@ -1,26 +1,24 @@
-# Hey there! 👋 I'm **Amira**
+# Hey there!  I'm **Amira**
 
 <div align="center">
 
-### 🚀 Full Stack .NET Developer | Engineering Student | Tech Enthusiast
+### Software Engineering Student 
 
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a passionate **Engineering Student** and dedicated **.NET Developer** currently working at **L-Mobile SARL**. I'm committed to building robust, scalable applications and continuously expanding my technical expertise. With a strong foundation in software development, I'm eager to tackle challenging problems and contribute to innovative projects.
 
-- 🎓 **Engineering Student** with focus on Software Development
-- 💼 **Working at L-Mobile SARL** as a .NET Developer
-- 💡 Passionate about clean code and best practices
-- 🎯 Always learning and exploring new technologies
+- **Engineering Student** with focus on Software Development
+- **Working at L-Mobile SARL** as a .NET Developer
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Languages**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -40,7 +38,7 @@ I'm a passionate **Engineering Student** and dedicated **.NET Developer** curren
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -50,19 +48,11 @@ I'm a passionate **Engineering Student** and dedicated **.NET Developer** curren
 
 </div>
 
----
-
-## 🌟 What I'm Currently Doing
-
-- 🔍 Exploring **microservices architecture** with .NET
-- 📚 Deepening my knowledge of **cloud development** with Azure
-- 🤝 Contributing to **open-source projects**
-- 💪 Strengthening my **system design** skills
 
 <div>
         <ul>
            <li>📫 <b>How to reach me </b>: bensaidamira773@gmail.com</li>
-            <li>😄 <b>Fun fact</b>: I love books(📚), Coding(💻), and Photography(📷).</li>
+            <li><b>Fun fact</b>: I love books(📚), Coding(💻), and Photography(📷).</li>
         </ul>
      
 </div>
